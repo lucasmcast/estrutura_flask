@@ -26,12 +26,12 @@ Esse repositório não convém ser instalado, servindo apenas para ser clonado c
     |- flasky.py
 ```
 
-> A estrutura tem quatro pastas de nível mais alto
+A estrutura tem quatro pastas de nível mais alto
 
-        * A aplocação Flask está em um pacote de nome genérico _apps_
-        * A pasta _migrations_ contém os script de manutenção de banco de dados.
-        * Os teste de unidade são escritos em um pacote _tests_
-        * A pasta _venv_ contém o ambiente virtual Python.
-        * _requerements.txt_ contém as depêndencias do pacote.
-        * _config.py_ armazena os parâmetros de configuração
-        * _flasky.py_ define a instância da aplicação flask.
+* A aplocação Flask está em um pacote de nome genérico _apps_
+* A pasta _migrations_ contém os script de manutenção de banco de dados.
+* Os teste de unidade são escritos em um pacote _tests_
+* A pasta _venv_ contém o ambiente virtual Python.
+* _requerements.txt_ contém as depêndencias do pacote.
+* _config.py_ armazena os parâmetros de configuração
+* _flasky.py_ define a instância da aplicação flask.
