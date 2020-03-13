@@ -1,7 +1,5 @@
 # Estrutura Básica de um Projeto Flask
-
 > Embora ter uma aplicação web pequena armazenada em um único arquivo de script possa ser muito conviniente, é importante que a estrutura do projeto seja organizada. Deste modo, caso a aplicação venha se tornar mais complexa, a preocupação de organizar trará facilidade na manutenção do códico.
-
 Esse repositório não convém ser instalado, servindo apenas para ser clonado como um modelo no inicio de algum projeto flask, sem se preocupar em fazer as configurações iniciais ou pensar em uma estrutura. Claro que requer melhorias, mas ja é um inicio para começar a dar vida ao projeto. A estrutura foi obtida pelo livro "Desenvolvendo Web com Flask" com algumas modificações.
 
 ```
@@ -25,10 +23,8 @@ Esse repositório não convém ser instalado, servindo apenas para ser clonado c
     |- config.py
     |- flasky.py
 ```
-
 > A estrutura tem quatro pastas de nível mais alto:
-
-    * A aplocação Flask está em um pacote de nome genérico _apps_
+* A aplocação Flask está em um pacote de nome genérico _apps_
     * A pasta _migrations_ contém os script de manutenção de banco de dados.
     * Os teste de unidade são escritos em um pacote _tests_
     * A pasta _venv_ contém o ambiente virtual Python.
