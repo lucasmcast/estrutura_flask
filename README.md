@@ -1,7 +1,6 @@
 # Estrutura Básica de um Projeto Flask
 
 > Embora ter uma aplicação web pequena armazenada em um único arquivo de script possa ser muito conviniente, é importante que a estrutura do projeto seja organizada. Deste modo, caso a aplicação venha se tornar mais complexa, a preocupação de organizar trará facilidade na manutenção do códico.
-
 Esse repositório não convém ser instalado, servindo apenas para ser clonado como um modelo no inicio de algum projeto flask, sem se preocupar em fazer as configurações iniciais ou pensar em uma estrutura. Claro que requer melhorias, mas ja é um inicio para começar a dar vida ao projeto. A estrutura foi obtida pelo livro "Desenvolvendo Web com Flask" com algumas modificações.
 
 ```
